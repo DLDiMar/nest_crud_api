@@ -1,3 +1,9 @@
+#nest_crud_api
+
+Nest.js API for CRUD operations, with sample JSON files for testing.
+The application takes in TV Show information provided by user, for later use on an app that randomly picks a show for watching. Spotify API integration coming to future revision of API.
+GraphQL integrated for querying on this API.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
