@@ -1,0 +1,68 @@
+[
+        {
+            "id":"1",
+            "tv_show_name":"Fresh Prince of Bel-Air",
+            "air_date":"September 10, 1990",
+            "number_seasons": 6,
+            "number_episodes": 148, 
+            "spotify_url": "https://open.spotify.com/track/0UREO3QWbXJW3gOUXpK1am?si=5tgn4LmfRv-hrh0Jf30J9g&utm_source=copy-link"
+        },
+        {
+            "id":"2",
+            "tv_show_name":"Hey Arnold",
+            "air_date":"July 10, 1996",
+            "number_seasons": 5,
+            "number_episodes": 100,
+            "spotify_url": "https://open.spotify.com/track/0QVWUCyGer4X2DlSNkHnlw?si=BI1saKiERoSjTKKT7DF_xw&utm_source=copy-link"
+        },
+        {
+            "id":"3",
+            "tv_show_name":"Rocket Power",
+            "air_date":"August 16, 1999",
+            "number_seasons": 4,
+            "number_episodes": 64,
+            "spotify_url": "https://open.spotify.com/track/3dsaqyrAXoM8xdjere74pA?si=vvYqCmXZQ028o_nwE0EQhg&utm_source=copy-link"
+        },
+        {
+            "id":"4",
+            "tv_show_name":"Cobra Kai",
+            "air_date":"May 2, 2018",
+            "number_seasons": 4,
+            "number_episodes": 40,
+            "spotify_url": "https://open.spotify.com/track/6YE7OXQA1kCQvZwfRlGhlN?si=IWU0WiOWQCaka6LV-mFOBQ&utm_source=copy-link"
+        },
+        {
+            "id":"5",
+            "tv_show_name":"Inspector Gadget",
+            "air_date":"December 4, 1982",
+            "number_seasons": 2,
+            "number_episodes": 86,
+            "spotify_url": "https://open.spotify.com/track/7COqi3bsIF5j3uqODbWGoM?si=JflAiJMORIqeFbO7GNBXdQ&utm_source=copy-link"
+        },        
+        {
+            "id":"6",
+            "tv_show_name":"Scrubs",
+            "air_date":"October 2, 2001",
+            "number_seasons": 9,
+            "number_episodes": 182,
+            "spotify_url": "https://open.spotify.com/track/5xyVGdXmKxvcwXDegFj0RV?si=jaw7OTdXSMiF60g0g-3ZWg&utm_source=copy-link"
+        },        
+        {
+            "id":"6",
+            "tv_show_name":"Scrubs",
+            "air_date":"October 2, 2001",
+            "number_seasons": 9,
+            "number_episodes": 182,
+            "spotify_url": "https://open.spotify.com/track/5xyVGdXmKxvcwXDegFj0RV?si=jaw7OTdXSMiF60g0g-3ZWg&utm_source=copy-link"
+        },        
+        {
+            "id":"7",
+            "tv_show_name":"Mighty Morphin Power Rangers",
+            "air_date":"August 28, 1993",
+            "number_seasons": 3,
+            "number_episodes": 145,
+            "spotify_url": "https://open.spotify.com/track/5xyVGdXmKxvcwXDegFj0RV?si=jaw7OTdXSMiF60g0g-3ZWg&utm_source=copy-link"
+        }
+    ]
+
+    
